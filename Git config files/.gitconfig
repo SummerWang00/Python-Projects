@@ -1,0 +1,10 @@
+[core]
+	editor = \"C:\\Users\\xwang\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait ##must be changed on a new machine
+[user]
+	name = SummerWang00
+	email = summerw1015@gmail.com
+[alias]
+	add-commit = !git add -A && git commit
+	up = update-git-for-windows
+[property]
+	key = value
